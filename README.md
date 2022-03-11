@@ -1,4 +1,4 @@
-### Oii! Eu sou a Daniela Pereira 👋
+### Oii! Eu sou a Dani 👋
 
 - 🌱 Estudando Programação Web Java
 - 😄 Pronouns: ela/dela
