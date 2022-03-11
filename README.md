@@ -27,4 +27,3 @@
     ![Snake animation](https://github.com/danieladps/danieladps/blob/output/github-contribution-grid-snake.svg)
     
   </div>
-  
