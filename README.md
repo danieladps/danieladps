@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Estudando Programação Web Java
+- 🌱 Estudando Programação Web
 
 <div align="center">
   <a href="https://github.com/danieladps">
