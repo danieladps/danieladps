@@ -29,5 +29,5 @@
     
    
     
-![Snake animation](https://github.com/danieladps/danieladps/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/danieladps/danieladps/output/github-contribution-grid-snake.svg)
  
